@@ -1,1 +1,1 @@
-This is the current working directory
+This is the script for printing absolute path to the current working directory
